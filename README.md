@@ -1,18 +1,15 @@
 
 # Hello, I'm Branden
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
-[Brief Introduction - Remove this afterwards]
+<a href="https://linkedin.com/in/branden-campos-a5441b173/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+## Brief Introduction
+
+I am a dedicated, analytically oriented, and highly motivated individual with a degree background in Information Systems and Cyber Security at Longwood University. Fast learning individual that is self motivated to learn new technology.
 
 ## Objective
-[Provide Objective]
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in the IT field has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work as a Security Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project]
@@ -31,20 +28,31 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link]
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## SIEM
+<img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
 
-### Network
+
+## Cloud
+<img src="https://img.shields.io/badge/-Microsoft%20Azure-0052CC?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+
+## Network
 <div>
-@@ -46,9 +46,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
+
+<img src="https://img.shields.io/badge/-Wireshark-0052CC?style=for-the-badge&logo=Wireshark&logoColor=white" />
+
 </div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link]
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-CISSP-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-0052CC?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
+
+
+
 @@ -57,6 +56,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
