@@ -17,7 +17,7 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Brandencampos/Setting-up-splunk">Splunk Setup</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Brandencampos/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Phishing Analysis | <a href="https://github.com/Brandencampos/Email_Phish_Analysis_Lab/blob/main/README.md"> Phishing Analysis Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -49,6 +49,7 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 
 ## Projects
 - <a href="https://github.com/Brandencampos/Setting-up-splunk">Splunk Setup</a>
-- <a href="https://github.com/Brandencampos/Home_Lab"> Setting up a Home Lab</a> 
+- <a href="https://github.com/Brandencampos/Home_Lab"> Setting up a Home Lab</a>
+- <a href="https://github.com/Brandencampos/Email_Phish_Analysis_Lab/blob/main/README.md"> Phishing Analysis Lab</a>
 <!--
 
