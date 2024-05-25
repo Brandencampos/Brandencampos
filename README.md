@@ -27,15 +27,18 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 <div>
 <img src="https://img.shields.io/badge/-Metasploit-000000?style=for-the-badge&logo=Metasploit&logoColor=white" />
 </div>
+
 ## SIEM
 <div>
 <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
+
 ## Cloud
 <div>
 <img src="https://img.shields.io/badge/-Microsoft%20Azure-0052CC?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 </div>
+
 ## Network
 <div>
 <img src="https://img.shields.io/badge/-Netcat-000000?style=for-the-badge&logo=Netcat&logoColor=white" />
