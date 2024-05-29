@@ -18,11 +18,16 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Brandencampos/Setting-up-splunk">Splunk Setup</a>|
 | Phishing Analysis                             | <a href="https://github.com/Brandencampos/Email_Phish_Analysis_Lab/blob/main/README.md"> Phishing Analysis Lab</a>|
 | RDP Exploit Lab                           |  <a href="https://github.com/Brandencampos/Exploiting_RDP"> RDP Exploit Lab</a>  |
-|       | |
+|    OpenVas Setup and Scan   | <a href="https://github.com/Brandencampos/Openva"> OpenVas Lab <a/> |
 |                   | |
 |  | |
 
 ## Tools
+## Vulnarability Management
+<div>
+  <img src="https://img.shields.io/badge/-OpenVAS-2CA5E0?style=for-the-badge&logo=OpenVAS&logoColor=white" />
+
+</div>
 ## Exploitation
 <div>
 <img src="https://img.shields.io/badge/-Metasploit-000000?style=for-the-badge&logo=Metasploit&logoColor=white" />
@@ -58,5 +63,6 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 - <a href="https://github.com/Brandencampos/Setting-up-splunk">Splunk Setup</a>
 - <a href="https://github.com/Brandencampos/Email_Phish_Analysis_Lab/blob/main/README.md"> Phishing Analysis Lab</a>
 - <a href="https://github.com/Brandencampos/Exploiting_RDP"> RDP Exploit Lab</a>
+- <a href="https://github.com/Brandencampos/Openva"> OpenVas Lab <a/>
 <!--
 
