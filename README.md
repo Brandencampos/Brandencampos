@@ -64,6 +64,6 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 - <a href="https://github.com/Brandencampos/Setting-up-splunk">Splunk Setup</a>
 - <a href="https://github.com/Brandencampos/Email_Phish_Analysis_Lab/blob/main/README.md"> Phishing Analysis Lab</a>
 - <a href="https://github.com/Brandencampos/Exploiting_RDP"> RDP Exploit Lab</a>
-- <a href="https://github.com/Brandencampos/Openva"> OpenVas Lab <a/>
+- <a href="https://github.com/Brandencampos/Openvas"> OpenVas Lab <a/>
 <!--
 
