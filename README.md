@@ -19,7 +19,7 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 | Phishing Analysis                             | <a href="https://github.com/Brandencampos/Email_Phish_Analysis_Lab/blob/main/README.md"> Phishing Analysis Lab</a>|
 | RDP Exploit Lab                           |  <a href="https://github.com/Brandencampos/Exploiting_RDP"> RDP Exploit Lab</a>  |
 |    OpenVas Setup and Scan   | <a href="https://github.com/Brandencampos/Openvas"> OpenVas Lab <a/> |
-|                   | |
+|      Setting up pfSense             | <a href="https://github.com/Brandencampos/PFSense-Setup"> pfSense Setup </a> |
 |  | |
 
 ## Tools
@@ -50,6 +50,8 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 <img src="https://img.shields.io/badge/-Netcat-000000?style=for-the-badge&logo=Netcat&logoColor=white" />
 
 <img src="https://img.shields.io/badge/-Wireshark-0052CC?style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-pfSense-333333?style=for-the-badge&logo=pfSense&logoColor=white" />
+
 
 </div>
 
@@ -65,5 +67,6 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 - <a href="https://github.com/Brandencampos/Email_Phish_Analysis_Lab/blob/main/README.md"> Phishing Analysis Lab</a>
 - <a href="https://github.com/Brandencampos/Exploiting_RDP"> RDP Exploit Lab</a>
 - <a href="https://github.com/Brandencampos/Openvas"> OpenVas Lab <a/>
+- <a href="https://github.com/Brandencampos/PFSense-Setup"> pfSense Setup </a>
 <!--
 
