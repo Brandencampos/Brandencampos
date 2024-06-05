@@ -20,7 +20,7 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 | RDP Exploit Lab                           |  <a href="https://github.com/Brandencampos/Exploiting_RDP"> RDP Exploit Lab</a>  |
 |    OpenVas Setup and Scan   | <a href="https://github.com/Brandencampos/Openvas"> OpenVas Lab <a/> |
 |      Setting up pfSense             | <a href="https://github.com/Brandencampos/PFSense-Setup"> pfSense Setup </a> |
-|  | |
+| Setting Rules for Remote Management in PfSense |  <a href="https://github.com/Brandencampos/Setting-Rules-in-PfSense"> Remote Management Rules in PfSense </a>|
 
 ## Tools
 ## Vulnarability Management
@@ -68,5 +68,6 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 - <a href="https://github.com/Brandencampos/Exploiting_RDP"> RDP Exploit Lab</a>
 - <a href="https://github.com/Brandencampos/Openvas"> OpenVas Lab <a/>
 - <a href="https://github.com/Brandencampos/PFSense-Setup"> pfSense Setup </a>
+-  <a href="https://github.com/Brandencampos/Setting-Rules-in-PfSense"> Remote Management Rules in PfSense </a>
 <!--
 
